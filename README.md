@@ -1,4 +1,4 @@
-# check_inode_root_home
+# check_inodes_root_home
 
 #!/bin/bash
 # All Rights Reserved.
