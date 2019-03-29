@@ -1,4 +1,5 @@
 # check_inodes_root_home
+# df -i (checks inodes) 
 
 #!/bin/bash
 # All Rights Reserved.
